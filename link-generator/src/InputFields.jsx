@@ -8,7 +8,7 @@ class InputFields extends Component {
     block: "Hullett",
     level: "level",
     room: "",
-    bed: "A",
+    bed: "B",
     temperature: "Normal",
     link: "",
     showLink: false,
