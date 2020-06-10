@@ -8,7 +8,9 @@ function App() {
   return (
     <main className="container">
       <nav className="navbar navbar-light bg-light m-2" style={navbarStyle}>
-        <span className="navbar-brand mb-0 h1">testa</span>
+        <span className="navbar-brand mb-0 h1">
+          Get the link and bookmark it
+        </span>
       </nav>
       <InputFields />
     </main>
