@@ -8,7 +8,7 @@ function App() {
   return (
     <main className="container">
       <nav className="navbar navbar-light bg-light m-2" style={navbarStyle}>
-        <span className="navbar-brand mb-0 h1">test</span>
+        <span className="navbar-brand mb-0 h1">testa</span>
       </nav>
       <InputFields />
     </main>
